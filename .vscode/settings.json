@@ -4,6 +4,8 @@
         "bidi",
         "petitparser",
         "reorderable",
+        "softprops",
+        "subosito",
         "webp"
     ]
 }
